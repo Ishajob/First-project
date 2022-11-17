@@ -1,16 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap');
-/* h1{
+ h1{
     font-size: 40px;
     color: blue;
+     font-family: 'Roboto Mono', monospace;
 }
-p{
+/*p{
     color: yellow;
 } */
-ol{
-    text-align: right;
-    /* list-style-position: inside;
-     list-style-type:lower-alpha; */
-     list-style: inside lower-alpha ;
-     font-family: 'Roboto Mono', monospace;
-     
- }
